@@ -18,6 +18,10 @@ This contract lets an admin initialize the platform, mint governance tokens, tra
 
 ## Deployed Smart Contract Link
 Governance Token Platform: Transaction dc07a485fa5ff044ec1eba6ed3afe2fa7b3a55dd02aa27fcf532cf3db8b19dad
+https://stellar.expert/explorer/testnet/tx/7163541593264128#7163541593264129
+
+
+
 Summary
 
 ## Basic Usage
