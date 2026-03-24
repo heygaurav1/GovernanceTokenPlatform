@@ -1,1 +1,31 @@
 # GovernanceTokenPlatform
+
+## Project Description
+Governance Token Platform is a basic Soroban smart contract built on Stellar for managing community proposals, token-based voting, and proposal execution. It provides a simple on-chain governance flow where token holders can participate in decision-making.
+
+## What it does
+This contract lets an admin initialize the platform, mint governance tokens, transfer balances, create proposals, vote on proposals, and execute proposals after the voting period ends.
+
+## Features
+- Admin initialization
+- Governance token minting
+- Token transfers
+- Proposal creation
+- Yes / No voting
+- Voting power based on token balance
+- Proposal execution after voting ends
+- On-chain balance and proposal lookup
+
+## Deployed Smart Contract Link
+Governance Token Platform: [Insert your deployed contract address or explorer link here]
+
+## Basic Usage
+1. Deploy the contract to Stellar using Soroban CLI.
+2. Initialize it with the admin address.
+3. Mint governance tokens to eligible voters.
+4. Create proposals.
+5. Cast votes.
+6. Execute the proposal after the deadline.
+
+## Notes
+This is a starter template and is not production-ready. For a real governance system, add proposal snapshots, quorum rules, timelocks, delegation, and stronger role controls.
